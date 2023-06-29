@@ -36,42 +36,19 @@ Foi utilizada uma base de dados com cerca de 20311 dados para o treinamento
 ## plotly.express
 ## plotly.graph_objects
 ## sklearn.pipeline
+## sklearn.preprocessing
+## sklearn.decomposition
+## sklearn.cluster
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+## Pré-requisitos
+Possuir as chaves client_id e client_secret do Spotify for Developers 
+que podem ser solicitadas através deste link: https://developer.spotify.com
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto back end
-cd backend
+As chaves devem ser inceridas na variavel de mesmo nome localizadas no intem "4.2 Biblioteca Spotipy"
 
-# executar o projeto
-./mvnw spring-boot:run
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
