@@ -1,6 +1,10 @@
 # Recomendador de Musica
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/eldercamposds/RecomendadorDeMusica/blob/main/LICENSE) 
 
+Para cessar o projeto completo clique no link abaixo:
+
+[![Static Badge](https://img.shields.io/badge/Clique%20Aqui%20-%20Acesse%20o%20Poejeto%20%2F%20%23fff?style=plastic)](https://colab.research.google.com/github/eldercamposds/RecomendadorDeMusica/blob/main/Recomendador_de_musicas.ipynb)
+
 # Sobre o projeto
 
 Projeto desenvolvido com o objetivo de explorar usualidades da API do Spotify.
